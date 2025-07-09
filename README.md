@@ -9,7 +9,6 @@ Fun, lightweight, and ready to play right from your browser — no installation 
 
 - **Tic Tac Toe** – Classic two-player game.
 - **Retro Spaceship Game** – A simple retro-inspired spaceship shooter.
-- _(Add more games here as you create them!)_
 
 Each game is contained in its own file or folder for easy access and editing.
 
